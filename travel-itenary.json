@@ -1,0 +1,49 @@
+{
+  "tripName": "My Trip",
+
+  "traveler": {
+    "name": "Anjana Sreekanth",
+    "contact": {
+      "emailId": "asree@xxxx.com",
+      "phoneNumber": "222-222-2222"
+    }
+  },
+
+  "destinations": [
+    {
+      "location": "Paris",
+      "arrivalDate": "2026-06-30",
+      "departureDate": "2026-07-15",
+
+      "activities": [
+        {
+    
+          "title": "Viist Eiffel Tower",
+          "time": "6:00 PM"
+        },
+        {
+          "title": "Visit Louvre",
+          "time": "2:00 PM"
+        }
+      ]
+    },
+
+    {
+      "location": "USA",
+      "arrivalDate": "2026-12-20",
+      "departureDate": "2026-12-31",
+      "activities": [
+        {
+          "title": "Niagara Falls",
+          "time": "8.30 AM"
+        },
+        {
+          "title": "Golden Gate Bridge",
+          "time": "5.30PM"
+        }
+      ]
+      
+    }
+
+  ]
+}
